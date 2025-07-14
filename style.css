@@ -177,13 +177,9 @@ nav button {
     font-size: 20px;
     font-weight: 400;
     border-radius: 4px;
-    display: inline-flex;
-    flex-wrap: wrap;
 }
 
 .hero-buttons {
-    display: inline-flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: 4px;
